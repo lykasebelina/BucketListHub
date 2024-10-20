@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "BucketList.API.Controllers.DestinationController",
+    "Method": "GetAllDestinations",
+    "RelativePath": "api/destination",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketList.API.Controllers.DestinationController",
+    "Method": "AddNewDestination",
+    "RelativePath": "api/destination",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newDestination",
+        "Type": "BucketListModels.Destination",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketList.API.Controllers.DestinationController",
+    "Method": "UpdateDestination",
+    "RelativePath": "api/destination",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updatedDestination",
+        "Type": "BucketListModels.Destination",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketList.API.Controllers.DestinationController",
+    "Method": "GetDestinationByName",
+    "RelativePath": "api/destination/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketList.API.Controllers.DestinationController",
+    "Method": "DeleteDestination",
+    "RelativePath": "api/destination/{name}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketList.API.Controllers.UserController",
+    "Method": "ValidateUser",
+    "RelativePath": "api/user/validate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "BucketListModels.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
