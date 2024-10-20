@@ -1,0 +1,13 @@
+C:\Users\Mitzi Villanueva\source\repos\BucketListDestination\BucketListModels\bin\Debug\net8.0\BucketListModels.deps.json
+C:\Users\Mitzi Villanueva\source\repos\BucketListDestination\BucketListModels\bin\Debug\net8.0\BucketListModels.dll
+C:\Users\Mitzi Villanueva\source\repos\BucketListDestination\BucketListModels\bin\Debug\net8.0\BucketListModels.pdb
+C:\Users\Mitzi Villanueva\source\repos\BucketListDestination\BucketListModels\obj\Debug\net8.0\BucketListModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mitzi Villanueva\source\repos\BucketListDestination\BucketListModels\obj\Debug\net8.0\BucketListModels.AssemblyInfoInputs.cache
+C:\Users\Mitzi Villanueva\source\repos\BucketListDestination\BucketListModels\obj\Debug\net8.0\BucketListModels.AssemblyInfo.cs
+C:\Users\Mitzi Villanueva\source\repos\BucketListDestination\BucketListModels\obj\Debug\net8.0\BucketListModels.csproj.CoreCompileInputs.cache
+C:\Users\Mitzi Villanueva\source\repos\BucketListDestination\BucketListModels\obj\Debug\net8.0\BucketListModels.dll
+C:\Users\Mitzi Villanueva\source\repos\BucketListDestination\BucketListModels\obj\Debug\net8.0\refint\BucketListModels.dll
+C:\Users\Mitzi Villanueva\source\repos\BucketListDestination\BucketListModels\obj\Debug\net8.0\BucketListModels.pdb
+C:\Users\Mitzi Villanueva\source\repos\BucketListDestination\BucketListModels\obj\Debug\net8.0\ref\BucketListModels.dll
+C:\Users\Mitzi Villanueva\source\repos\BucketListDestination\BucketListModels\obj\Debug\net8.0\BucketListModels.sourcelink.json
+C:\Users\Mitzi Villanueva\source\repos\BucketListDestination\BucketListModels\obj\Debug\net8.0\BucketListModels.csproj.AssemblyReference.cache
